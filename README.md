@@ -82,21 +82,11 @@ Using **Security Onion** and **Splunk**, I will practice:
 ---
 
 ## 🎯 Goal
+This project is part of my transition into the cybersecurity field, where I’m actively building the skills needed to break into the industry. My immediate goal is to land a SOC Analyst role and eventually grow into Threat Hunting or Red Team work.
 
-This project is part of my transition into the cybersecurity field. My immediate goal is to land a SOC Analyst role and grow into a Threat Hunter or Red Team position. This lab reflects my curiosity, dedication, and hands-on knowledge.
+This homelab reflects my curiosity, dedication, and passion for learning through hands-on experience. It's not just a project—it’s a stepping stone toward where I want to be.
 
 ---
 
-## 📂 Repository Structure
 
-```bash
-📁 homelab/
-│
-├── 🖼️ image.png             # Network diagram
-├── 📝 README.md             # You’re here!
-├── 📁 splunk-config/        # Sample inputs.conf, outputs.conf
-├── 📁 pfsense-config/       # Firewall rules screenshots or JSON exports
-├── 📁 logs-samples/         # Sanitized log samples
-├── 📁 detection-rules/      # Custom Sigma or Suricata rules
-└── 📁 attack-notes/         # Markdown notes on testing phases
 
