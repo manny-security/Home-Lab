@@ -38,12 +38,12 @@ I built this lab to:
 
 | Role              | Tool / OS                        | IP Address        |
 |-------------------|----------------------------------|-------------------|
-| Attacker          | Kali Linux                       | `192.168.1.10` (em1) |
-| Firewall          | pfSense                          | `192.168.1.1` (router) |
-| Monitoring        | Security Onion                   | `192.168.3.10` (em3) |
-| SIEM              | Splunk + Universal Forwarder     | `192.168.4.10` (em5) |
-| Victim Machines   | Windows 10                       | `192.168.2.10` (em2) |
-| Domain Controller | Windows Server (AD)              | Internal          |
+| Attacker          | Kali Linux                       | `192.168.1.1` (em1) |
+| Firewall          | pfSense                          | `192.168.***.***` (router) |
+| Monitoring        | Security Onion                   | `192.168.3.1` (em3) |
+| SIEM              | Splunk + Universal Forwarder     | `192.168.4.1` (em5) |
+| Victim Machines   | Windows 10                       | `192.168.2.1` (em2) |
+| Domain Controller | Windows Server (AD)              | `192.168.2.1` (em2) |
 
 ---
 
